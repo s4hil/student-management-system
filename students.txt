@@ -1,0 +1,6 @@
+1dt21cs100 chandler farooq civil 1
+1dt21cs200 joey farooq civil 1
+1dt21cs300 monica farooq civil 1
+1dt21cs500 ross farooq civil 1
+1dt21cs400 phoebe buffay cse 2 
+1dt21cs700 jill goodacre ece 1
